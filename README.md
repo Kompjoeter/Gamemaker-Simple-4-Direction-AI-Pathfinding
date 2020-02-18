@@ -1,4 +1,4 @@
-# Gamemaker-Simple-AI-4-Direction-Pathfinding
+# Gamemaker-Simple-4-Direction-AI-Pathfinding
 (A simple pathfinding project for AI in Gamemaker Studio 2.)
 
 Creator's Note
