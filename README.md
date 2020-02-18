@@ -7,11 +7,11 @@ This project is one of my first "programming" projects (As are most of my Gamema
 
 Features
 ----------
--Self moving character (on grid)
--Avoids Collision Objects
--Can move in 4 directions
--Comes with 4 direction human walking sprites
--Comes with simple wall tileset
+- Self moving character (on grid)
+- Avoids Collision Objects
+- Can move in 4 directions
+- Comes with 4 direction human walking sprites
+- Comes with simple wall tileset
 
 Instructions
 ----------
